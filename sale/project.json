@@ -1,0 +1,5 @@
+{
+    "name": "sale",
+    "path": "^/sale",
+    "sale": "/sale/sale.4a1186e6.umd.min.js"
+}

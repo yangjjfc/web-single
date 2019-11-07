@@ -1,0 +1,1 @@
+define(function (){return {projects: [{"name":"menu","path":"^/menu","base":true,"menu":"/menu/menu.fafe019f.umd.min.js"},{"name":"sale","path":"^/sale","sale":"/sale/sale.4a1186e6.umd.min.js"}]};})

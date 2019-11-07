@@ -1,0 +1,6 @@
+{
+    "name": "menu",
+    "path": "^/menu",
+    "base": true,
+    "menu": "/menu/menu.fafe019f.umd.min.js"
+}
